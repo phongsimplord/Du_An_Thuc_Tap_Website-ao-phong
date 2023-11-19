@@ -1,0 +1,2 @@
+b1: bật terminal tải  npm i 
+b2: chạy npm start
